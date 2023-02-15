@@ -2,7 +2,10 @@
 
 https://user-images.githubusercontent.com/58944748/219132598-fe0d4de5-a2bd-4684-9715-ad1a644b23b7.mp4
 
-<span style="color:blue">some *blue* text</span>.
+### Green Pixels - Healthy Cells.
+### Red Pixels - Sick Cells.
+### Blue Pixels - Recovering Cells.
+
 
 ## Description
 
