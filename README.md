@@ -1,5 +1,7 @@
 # Covid-19-Simulation
 
+https://user-images.githubusercontent.com/58944748/219132598-fe0d4de5-a2bd-4684-9715-ad1a644b23b7.mp4
+
 ## Description
 
 A simulation of a disease outbreak. The simulation allows the user to input parameters such as the number of people, the number of healthy individuals, the number of sick individuals, the number of recovering individuals, the percentage of infection for healthy individuals, the percentage of infection for recovering individuals, and the number of sick iterations.
