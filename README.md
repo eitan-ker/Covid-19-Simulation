@@ -1,5 +1,7 @@
 # Covid-19-Simulation
 
+## Description
+
 A simulation of a disease outbreak. The simulation allows the user to input parameters such as the number of people, the number of healthy individuals, the number of sick individuals, the number of recovering individuals, the percentage of infection for healthy individuals, the percentage of infection for recovering individuals, and the number of sick iterations.
 
 The simulation creates a GUI using the Pygame library and prompts the user to enter the input parameters. Once the parameters are entered, the simulation runs and displays the progress of the disease outbreak in a graphical form.
