@@ -1,5 +1,7 @@
 # Covid-19-Simulation
 
+**(Recommended to view in full screen)**
+
 https://user-images.githubusercontent.com/58944748/219132598-fe0d4de5-a2bd-4684-9715-ad1a644b23b7.mp4
 
 
